@@ -33,8 +33,6 @@ komplexe Anforderungen in sauberen, wartbaren Code zu übersetzen. Besonderes In
 | **Portfolio-Website** | Eigene Dev-Seite (GitHub Pages) | HTML, CSS, JS |
 | **Beispiel-DB** | Mini-Datenbank + SQL-Abfragen | SQL, Oracle |
 
-> Tipp: Sobald Repos online sind, kannst du sie hier verlinken und als **Pinned Repositories** markieren.
-
 ---
 
 ## 📊 GitHub Stats
