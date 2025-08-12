@@ -1,45 +1,51 @@
 # DS-ITSolutions
-
 # 👋 Hallo, ich bin Daniel
 
-💻 **Fachinformatiker für Anwendungsentwicklung**  
-🚀 Spezialisierung: Java | C# | SQL | Datenbankentwicklung  
-📍 Bayern, Deutschland  
+**Fachinformatiker Anwendungsentwicklung**  
+Java · C# · SQL · Datenbankentwicklung  
+Rain (Bayern), Deutschland
+
+[![Mail](https://img.shields.io/badge/E-Mail-schnuerch.daniel%40gmail.com-informational?logo=gmail)](mailto:schnuerch.daniel@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/danschnu?style=social)](https://github.com/danschnu)
 
 ---
 
 ## 🔧 Technologien & Tools
-- **Programmiersprachen:** Java (OOP), C#, Python
-- **Datenbanken:** Oracle, SQL (inkl. komplexer Abfragen, Tabellenstrukturen, DB-Design)
-- **Entwicklung:** Strukturierte, wartbare & performante Softwarelösungen
-- **Weitere Kenntnisse:** GUI-Entwicklung, Datenbankanbindung, Windows, Linux (Grundlagen)
+- **Sprachen:** Java (OOP), C#, Python  
+- **Datenbanken:** Oracle, SQL (Abfragen, Tabellenstrukturen, DB-Design)  
+- **Dev:** Strukturierte, wartbare & performante Softwarelösungen  
+- **Weitere Kenntnisse:** GUI-Entwicklung, Datenbankanbindung, Windows, Linux (Grundlagen), Git
 
 ---
 
 ## 🌱 Über mich
-Ich bin ein analytischer, strukturierter und lösungsorientierter Entwickler, der Freude an Teamarbeit hat und sich schnell in neue Technologien einarbeitet.  
-Mein Ziel ist es, mein Wissen stetig zu erweitern, spannende Projekte umzusetzen und sowohl technisch als auch persönlich zu wachsen.  
-Ich bin offen für Backend-, Frontend- und Architekturthemen und habe ein besonderes Interesse an Datenbankentwicklung.
+Analytisch, strukturiert und lösungsorientiert. Ich lerne schnell, arbeite gern im Team und habe Spaß daran,
+komplexe Anforderungen in sauberen, wartbaren Code zu übersetzen. Besonderes Interesse: **Backend & Datenbanken**.
 
 ---
 
-## 📂 Geplante Projekte
-| Projekt | Beschreibung | Technologien |
-| ------- | ------------ | ------------ |
+## 📂 Projekte (in Vorbereitung)
+| Projekt | Kurzbeschreibung | Technologien |
+| --- | --- | --- |
 | **Rechnungs-Tool** | Erstellt TXT/PDF-Rechnungen | Java, Swing |
-| **Inventarverwaltung** | Lagerverwaltung mit Suche | C#, WinForms |
-| **Portfolio-Webseite** | Persönliche Entwicklerseite | HTML, CSS, JS |
-| **Aufgabenplaner** | To-Do-App mit JSON-Speicherung | Java, JSON |
-| **SQL-Datenbank** | Beispieldatenbank + Abfragen | SQL, Oracle |
+| **Inventarverwaltung** | Lagerverwaltung mit Suche/CRUD | C#, WinForms, SQLite |
+| **Aufgabenplaner** | To-Do-App, Speicherung in JSON | Java, Gson |
+| **Portfolio-Website** | Eigene Dev-Seite (GitHub Pages) | HTML, CSS, JS |
+| **Beispiel-DB** | Mini-Datenbank + SQL-Abfragen | SQL, Oracle |
+
+> Tipp: Sobald Repos online sind, kannst du sie hier verlinken und als **Pinned Repositories** markieren.
 
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=danschnu&show_icons=true&theme=radical
-)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danschnu&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danschnu&layout=compact&theme=radical" />
+</p>
 
 ---
 
-📫 **Kontakt:**  
-✉️ schnuerch.daniel@gmail.com  
+## 📫 Kontakt
+**E-Mail:** schnuerch.daniel@gmail.com  
+**LinkedIn:** _optional später hinzufügen_  
 
