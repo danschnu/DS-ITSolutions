@@ -47,5 +47,5 @@ komplexe Anforderungen in sauberen, wartbaren Code zu übersetzen. Besonderes In
 
 ## 📫 Kontakt
 **E-Mail:** schnuerch.daniel@gmail.com  
-**LinkedIn:** _optional später hinzufügen_  
+
 
