@@ -5,7 +5,7 @@
 Java · C# · SQL · Datenbankentwicklung  
 Rain (Bayern), Deutschland
 
-[![Mail](https://img.shields.io/badge/E-Mail-schnuerch.daniel%40gmail.com-informational?logo=gmail)](mailto:schnuerch.daniel@gmail.com)
+[![E-Mail](https://img.shields.io/badge/E--Mail-schnuerch.daniel%40gmail.com-red?logo=gmail&logoColor=white)](mailto:schnuerch.daniel@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/danschnu?style=social)](https://github.com/danschnu)
 
 ---
