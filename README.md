@@ -35,7 +35,8 @@ Ich bin offen für Backend-, Frontend- und Architekturthemen und habe ein besond
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=danschnu&show_icons=true&theme=radical
+)
 
 ---
 
